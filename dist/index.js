@@ -14,7 +14,7 @@ const initialGameBoard = {
 };
 const gameSize = {
     sizeToWin: 3,
-    boardSize: 3,
+    boardSize: 5,
 };
 const winnerInfo = {
     winner: null,

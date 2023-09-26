@@ -23,7 +23,7 @@ type GameSize = {
 
 const gameSize: GameSize = {
     sizeToWin: 3,
-    boardSize: 3,
+    boardSize: 5,
 };
 
 type WinnerInfo = {
